@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.9.0",
+    "axios": "^0.22.0"
+  },
+  "scripts": {
+    "start": "functions-framework --target=postToEventbrite"
+  }
+}

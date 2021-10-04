@@ -1,0 +1,30 @@
+{
+    "organizations": [
+      {
+        "_type": "organization",
+        "name": "House Of Hobby",
+        "vertical": "default",
+        "parent_id": null,
+        "locale": "en_AU",
+        "image_id": "143110891",
+        "id": "246081854792"
+      },
+      {
+        "_type": "organization",
+        "name": "Matthew McGillivray",
+        "vertical": "default",
+        "parent_id": null,
+        "locale": null,
+        "image_id": null,
+        "id": "572364588209"
+      }
+    ],
+    "pagination": {
+      "object_count": 2,
+      "continuation": "AGWl1yEwb1Fr0F35AkY3iVS96Z0DPjkOGfs2U0Wl6EmVBRNfcD_s4SNOnhdvJEC6XmWhRQjIYCH-",
+      "page_count": 1,
+      "page_size": 50,
+      "has_more_items": false,
+      "page_number": 1
+    }
+  }
